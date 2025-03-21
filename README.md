@@ -9,3 +9,5 @@
 #*mentor* : NEELA SANTOSH
 #*last date of internship* : 22nd MAR
 
+# OUTPUT==>
+![Image](https://github.com/user-attachments/assets/83f182ab-ee4f-4e97-a5fc-9c178cc601b5)
