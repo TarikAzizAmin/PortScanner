@@ -1,5 +1,5 @@
 # PortScanner
-#This python script uses pythons SOCKET libraby to connect to an <IP> and scan for the opening ports, it also provides us with the running services on those open ports
+#This python script uses pythons SOCKET libraby to connect to an <IP> and scan for the opening ports, it also provides us with the running services on those open ports(firsts 1025 ports)
 
 #*company name*: "CODTECH IT SOLUTION"
 #*name* : TARIK AZIZ AMIN
